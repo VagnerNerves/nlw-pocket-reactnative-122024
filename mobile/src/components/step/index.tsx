@@ -1,14 +1,14 @@
-import { Text, View } from "react-native";
-import { IconProps } from "@tabler/icons-react-native";
+import { Text, View } from 'react-native'
+import type { IconProps } from '@tabler/icons-react-native'
 
-import { colors } from "@/styles/theme";
-import { s } from "./styles";
+import { colors } from '@/styles/theme'
+import { s } from './styles'
 
 type Props = {
-  title: string;
-  description: string;
-  icon: React.ComponentType<IconProps>;
-};
+  title: string
+  description: string
+  icon: React.ComponentType<IconProps>
+}
 
 export function Step({ title, description, icon: Icon }: Props) {
   return (
@@ -20,5 +20,5 @@ export function Step({ title, description, icon: Icon }: Props) {
         <Text style={s.description}>{description}</Text>
       </View>
     </View>
-  );
+  )
 }
