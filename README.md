@@ -158,7 +158,7 @@ Start the server
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/nlw-pocket-reactnative-122024/tree/main?tab=MIT-1-ov-file) file for more details.
 
 ## ✒ Author
 
