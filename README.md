@@ -26,7 +26,7 @@ I developed Nearby using React Native and Expo, an application designed to make 
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+https://github.com/user-attachments/assets/cee84ce8-db9e-45b6-8817-f1868b7f82bc
 
 ## 🎨 Layout
 
